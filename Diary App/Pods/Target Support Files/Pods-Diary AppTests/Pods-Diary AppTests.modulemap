@@ -1,0 +1,6 @@
+framework module Pods_Diary_AppTests {
+  umbrella header "Pods-Diary AppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
